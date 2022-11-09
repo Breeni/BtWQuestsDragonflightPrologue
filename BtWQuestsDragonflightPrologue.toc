@@ -11,6 +11,7 @@
 ## X-BtWQuests-AutoLoad: 1
 ## X-Part-Of: BtWQuests
 ## X-Curse-Project-ID: 688535
+## X-WoWI-ID: 26458
 ## X-Wago-ID: RqGYzeNg
 
 Defines.lua
