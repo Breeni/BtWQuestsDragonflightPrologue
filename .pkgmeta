@@ -1,0 +1,11 @@
+package-as: BtWQuestsDragonflightPrologue
+wowi-archive-previous: no
+enable-nolib-creation: no
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - .luacheckrc
+
