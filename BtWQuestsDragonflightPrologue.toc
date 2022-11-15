@@ -1,6 +1,6 @@
-## Interface: 100000
+## Interface: 100002
 ## Title: BtWQuests: Dragonflight Prologue
-## Version: 0.1-beta
+## Version: 0.2
 ## Notes: Dragonflight prologue quest data for BtWQuests
 ## Author: Breen
 ## Dependencies: BtWQuests
