@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "Угроза стихий",
     },
+    [70049] = {
+        name = "Борьба с бурей",
+    },
     [70050] = {
         name = "Побороть бурю",
     },

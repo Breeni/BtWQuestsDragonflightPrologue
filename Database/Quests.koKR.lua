@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "원시의 위협",
     },
+    [70049] = {
+        name = "폭풍을 다스리다",
+    },
     [70050] = {
         name = "폭풍 추적자",
     },

@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "Menace primordiale",
     },
+    [70049] = {
+        name = "Calmer les tempêtes",
+    },
     [70050] = {
         name = "Chasse aux tempêtes",
     },

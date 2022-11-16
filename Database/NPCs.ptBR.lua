@@ -12,5 +12,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "Naleideia Fulgorrio",
     },
+    [189602] = {
+        name = "Tânia Bigodes",
+    },
+    [189603] = {
+        name = "Comandante-de-escama Lazulathel",
+    },
 })
 ]])()

@@ -15,5 +15,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "娜蕾迪亞‧河光",
     },
+    [189602] = {
+        name = "多蒂‧鬍鬚",
+    },
+    [189603] = {
+        name = "龍隊指揮官埃祖拉瑟",
+    },
 })
 ]])()

@@ -15,5 +15,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "娜蕾迪亚·流光",
     },
+    [189602] = {
+        name = "托蒂·晶须",
+    },
+    [189603] = {
+        name = "鳞长阿苏拉泰",
+    },
 })
 ]])()

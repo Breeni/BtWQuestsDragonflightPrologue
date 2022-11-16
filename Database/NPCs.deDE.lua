@@ -12,5 +12,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "Naleidea Flussglanz",
     },
+    [189602] = {
+        name = "Toddy Schnurrbart",
+    },
+    [189603] = {
+        name = "Schuppenkommandant Azurathel",
+    },
 })
 ]])()

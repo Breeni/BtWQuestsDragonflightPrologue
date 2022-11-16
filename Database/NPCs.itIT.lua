@@ -12,5 +12,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "Naleidea Brillafiumi",
     },
+    [189602] = {
+        name = "Toddy Baffetta",
+    },
+    [189603] = {
+        name = "Comandante delle Scaglie Azurathel",
+    },
 })
 ]])()

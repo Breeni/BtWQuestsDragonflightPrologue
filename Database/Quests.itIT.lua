@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "Una minaccia primordiale",
     },
+    [70049] = {
+        name = "Placando le tempeste",
+    },
     [70050] = {
         name = "A caccia di tempeste",
     },

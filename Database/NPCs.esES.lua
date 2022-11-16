@@ -12,5 +12,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "Naleidea Brillorrío",
     },
+    [189602] = {
+        name = "Toddy Bigotis",
+    },
+    [189603] = {
+        name = "Escamandante Azurathel",
+    },
 })
 ]])()

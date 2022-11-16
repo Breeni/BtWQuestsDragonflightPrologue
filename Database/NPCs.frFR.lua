@@ -12,5 +12,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "Naleïdéa Mirerive",
     },
+    [189602] = {
+        name = "Toddy Bourbon",
+    },
+    [189603] = {
+        name = "Squammandant Azurathel",
+    },
 })
 ]])()

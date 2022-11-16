@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "Una amenaza primigenia",
     },
+    [70049] = {
+        name = "Calma para las tormentas",
+    },
     [70050] = {
         name = "Cazadores de tormentas",
     },

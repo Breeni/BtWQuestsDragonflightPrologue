@@ -372,7 +372,7 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
     },
     completed = {
         type = "quest",
-        ids = {70050, 69944, 66458, 66586, 70050, 69925,},
+        ids = {70048, 69923, 69944, 66586,},
         count = 3,
     },
     items = {
@@ -600,7 +600,7 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
             variations = {
                 {
                     type = "quest",
-                    id = 70050,
+                    id = 70049,
                     restrictions = 924,
                 },
                 {

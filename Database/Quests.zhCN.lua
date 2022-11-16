@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "原始威胁",
     },
+    [70049] = {
+        name = "平息风暴",
+    },
     [70050] = {
         name = "追逐风暴",
     },

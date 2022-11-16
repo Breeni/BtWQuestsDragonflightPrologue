@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "Uma ameaça primeva",
     },
+    [70049] = {
+        name = "Acalmando as tempestades",
+    },
     [70050] = {
         name = "Perseguindo tempestades",
     },

@@ -12,5 +12,11 @@ BtWQuestsDatabase:UpdateNPCsTable({
     [184793] = {
         name = "Naleidea Riberaluz",
     },
+    [189602] = {
+        name = "Toddy Bigotes",
+    },
+    [189603] = {
+        name = "Dracomandante Azurathel",
+    },
 })
 ]])()

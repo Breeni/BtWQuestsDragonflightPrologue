@@ -153,6 +153,9 @@ BtWQuestsDatabase:UpdateQuestsTable({
     [70048] = {
         name = "Eine Urbedrohung",
     },
+    [70049] = {
+        name = "Die Stürme beruhigen",
+    },
     [70050] = {
         name = "Sturmjagd",
     },
