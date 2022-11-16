@@ -958,7 +958,20 @@ BtWQuestsDatabase:AddQuestsTable({
         },
     },
     [66458] = {
+        name = "Legacy of Tyr: Secrets of the Past",
         contentTuningID = 2573,
+        source = {
+            type = "npc",
+            id = 189569,
+            locations = {
+                [84] = {
+                    {
+                        x = 0.229357,
+                        y = 0.560005,
+                    },
+                },
+            },
+        },
     },
     [66513] = {
         name = "Ground Leave",
@@ -1001,6 +1014,18 @@ BtWQuestsDatabase:AddQuestsTable({
     [66586] = {
         name = "Legacy of Tyr: Secrets of the Past",
         contentTuningID = 2573,
+        source = {
+            type = "npc",
+            id = 190239,
+            locations = {
+                {
+                    {
+                        x = 0.558441,
+                        y = 0.127428,
+                    },
+                },
+            },
+        },
         rewards = {
             {
                 type = "experience",
@@ -1081,10 +1106,20 @@ BtWQuestsDatabase:AddQuestsTable({
         },
     },
     [69923] = {
+        name = "A Primal Threat",
         contentTuningID = 2573,
+        source = {
+            type = "npc",
+            id = 193450,
+        },
     },
     [69925] = {
+        name = "Calming the Storms",
         contentTuningID = 2573,
+        source = {
+            type = "npc",
+            id = 193450,
+        },
     },
     [69944] = {
         name = "The Expedition Gathers",
@@ -1092,10 +1127,31 @@ BtWQuestsDatabase:AddQuestsTable({
         source = {
             type = "npc",
             id = 184786,
+            locations = {
+                [85] = {
+                    {
+                        x = 0.494318,
+                        y = 0.73561,
+                    },
+                },
+            },
         },
     },
     [70048] = {
+        name = "A Primal Threat",
         contentTuningID = 2573,
+        source = {
+            type = "npc",
+            id = 193450,
+            locations = {
+                [84] = {
+                    {
+                        x = 0.230091,
+                        y = 0.561523,
+                    },
+                },
+            },
+        },
     },
     [70050] = {
         name = "The Expedition Gathers",
@@ -1103,6 +1159,14 @@ BtWQuestsDatabase:AddQuestsTable({
         source = {
             type = "npc",
             id = 189603,
+            locations = {
+                [84] = {
+                    {
+                        x = 0.404188,
+                        y = 0.500745,
+                    },
+                },
+            },
         },
     },
     [72240] = {
@@ -1111,14 +1175,6 @@ BtWQuestsDatabase:AddQuestsTable({
         source = {
             type = "npc",
             id = 189603,
-            locations = {
-                [84] = {
-                    {
-                        x = 0.799394,
-                        y = 0.26963,
-                    },
-                },
-            },
         },
         rewards = {
             {
@@ -1145,14 +1201,6 @@ BtWQuestsDatabase:AddQuestsTable({
         source = {
             type = "npc",
             id = 184786,
-            locations = {
-                [85] = {
-                    {
-                        x = 0.440357,
-                        y = 0.382483,
-                    },
-                },
-            },
         },
         rewards = {
             {

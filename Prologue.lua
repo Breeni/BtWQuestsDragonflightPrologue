@@ -381,7 +381,18 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
                 {
                     type = "quest",
                     id = 65436,
-                    restrictions = 924,
+                    restrictions = {
+                        {
+                            type = "faction",
+                            id = "Alliance"
+                        },
+                        {
+                            type = "class",
+                            ids = {
+                                1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 
+                            },
+                        },
+                    },
                 },
                 {
                     type = "quest",
@@ -404,7 +415,18 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
                 {
                     type = "quest",
                     id = 66577,
-                    restrictions = 924,
+                    restrictions = {
+                        {
+                            type = "faction",
+                            id = "Alliance"
+                        },
+                        {
+                            type = "class",
+                            ids = {
+                                1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 
+                            },
+                        },
+                    },
                 },
                 {
                     type = "quest",
@@ -423,8 +445,26 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
             },
         },
         {
-            type = "npc",
-            id = 184786,
+            variations = {
+                {
+                    type = "npc",
+                    id = 189603,
+                    restrictions = {
+                        {
+                            type = "faction",
+                            id = "Alliance"
+                        },
+                        {
+                            type = "class",
+                            id = 13,
+                        },
+                    },
+                },
+                {
+                    type = "npc",
+                    id = 184786,
+                },
+            },
             restrictions = {
                 type = "class",
                 id = 13,
@@ -435,8 +475,26 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
             },
         },
         {
-            type = "npc",
-            id = 184793,
+            variations = {
+                {
+                    type = "npc",
+                    id = 189602,
+                    restrictions = {
+                        {
+                            type = "faction",
+                            id = "Alliance"
+                        },
+                        {
+                            type = "class",
+                            id = 13,
+                        },
+                    },
+                },
+                {
+                    type = "npc",
+                    id = 184793,
+                },
+            },
             restrictions = {
                 type = "class",
                 id = 13,
