@@ -1,3 +1,8 @@
+# v1.2
+
+- Fixed The Dragonscale Expedition quest chain incorrectly showing as completed
+- Fixed an incorrect quest name
+
 # v1.1
 
 - Fixed some unnamed quests
