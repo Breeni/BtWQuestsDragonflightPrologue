@@ -1,3 +1,7 @@
+# v1.3
+
+- Updated for 10.1
+
 # v1.2
 
 - Fixed The Dragonscale Expedition quest chain incorrectly showing as completed
