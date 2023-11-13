@@ -1,5 +1,9 @@
 # v1.3
 
+- Updated for 10.2
+
+# v1.3
+
 - Updated for 10.1
 
 # v1.2
