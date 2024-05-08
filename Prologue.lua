@@ -370,11 +370,12 @@ Database:AddChain(Chain.TheDragonscaleExpedition, {
         ids = {65435, 65436, 66577, 65437, 72240, 72256, 66589, 65443},
         status = {'active', 'completed'},
     },
-    completed = {
-        type = "quest",
-        ids = {70048, 69923, 69944, 66586,},
-        count = 3,
-    },
+    -- completed = {
+    --     type = "quest",
+    --     ids = {70048, 69923, 69944, 66586,},
+    --     count = 3,
+    -- },
+    completed = true,
     items = {
         {
             variations = {
