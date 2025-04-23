@@ -1,3 +1,7 @@
+# v1.12
+
+- Updated for 11.1.5
+
 # v1.11
 
 - Updated for 11.1.0
