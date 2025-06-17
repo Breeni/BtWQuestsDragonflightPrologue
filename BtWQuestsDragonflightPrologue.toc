@@ -1,4 +1,4 @@
-## Interface: 110100, 110105
+## Interface: 110105, 110107
 ## Title: BtWQuests: Dragonflight Prologue
 ## Version: @project-version@
 ## Notes: Dragonflight prologue quest data for BtWQuests
@@ -8,7 +8,7 @@
 ## X-BtWQuests: Dragonflight Prologue
 ## X-BtWQuests-Expansion: 9
 ## X-BtWQuests-Expansion-Image: UI-Expansion 0 0.90625 0 0.8125
-## X-BtWQuests-AutoLoad: 1
+## X-BtWQuests-AutoLoad: 0
 ## X-Part-Of: BtWQuests
 ## Group: BtWQuests
 ## X-Curse-Project-ID: 688535
