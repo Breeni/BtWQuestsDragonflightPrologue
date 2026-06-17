@@ -1,3 +1,7 @@
+# v1.19
+
+- Updated for 12.0.7
+
 # v1.18
 
 - Updated for 12.0.5
